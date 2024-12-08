@@ -40,28 +40,24 @@ Current FUSE developers
 
 Participants
 ------------
-+----------------------+---------------------------+---------------------------------------------------------------------+-----------+--------+
 | Name                 | Affiliation               | Interest / Goals                                                    | Lightning | Group  |
-+----------------------+---------------------------+---------------------------------------------------------------------+-----------+--------+
+|----------------------|---------------------------|---------------------------------------------------------------------|-----------|--------|
 | Wen-Yi Chen          | University of Taiwan      | Formosa Integrated Research Spherical Tokamak (FIRST) design        |           | 1      |
 | Jaebeom Cho          | Seoul National University | Systems codes, K-DEMO design                                        |           | 1      |
 | Jisung Kang          | KFE                       | Korean tokamak reactor design                                       | Tu        | 1      |
 | Steven McNamara      | Tokamak Energy            | FPP scoping and design                                              | Tu        | 1      |
 | Giwook Shin          | KFE                       | (compact) K-DEMO conceptual design                                  |           | 1      |
 | Koki Tanaka          | Kyoto Fusioneering        | Fusion by Advanced Superconducting Tokamak (FAST) design            |           | 1      |
-+----------------------+---------------------------+---------------------------------------------------------------------+-----------+--------+
 | Aaron Ho             | MIT PSFC                  | Pulse design simulations                                            | Tu        | 2      |
 | Chris Marsden        | Tokamak Energy            | Edge and PFCs modelling with FreeGS and HEAT                        |           | 2      |
 | Joshua Mitchell      | UKAEA                     | Fusion power plant design for UKAEA, controls                       | Th        | 2      |
 | Kamran Pentland      | UKAEA                     | Equilibrium modelling for integration with transports codes         |           | 2      |
 | Audrey Saltzman      | MIT PSFC                  | Bayesian optimization for transport and tokamak design              | Th        | 2      |
-+----------------------+---------------------------+---------------------------------------------------------------------+-----------+--------+
 | Nathan Cummings      | UKAEA                     | IMAS, data sharing and standards                                    |           | 3      |
 | Michael Kovari       | UKAEA                     | EU-DEMO design, UKAEA STEP design, PROCESS & Bluemira codes         | Tu        | 3      |
 | Taeuk Moon           | Ulsan NIST                | Development of modeling tool for tokamak desing in HPC environment  |           | 3      |
 | Mackenzie Nelson     | LLNL                      | Development of integrated modeling tools for IFE power plant design | Th        | 3      |
 | Alexander Pearce     | UKAEA                     | Whole plant design codes (PROCESS and Bluemira)                     |           | 3      |
-+----------------------+---------------------------+---------------------------------------------------------------------+-----------+--------+
 
 Working groups
 --------------
